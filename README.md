@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @regisplnz
+- 👀 I’m interested in lab stuff, including microbiology and molecular methods...
+- 🌱 I’m currently learning python and data science...
+- 📫 You can reach me at my email: spalanzani.regi@gmail.com...
+
+<!---
+regisplnz/regisplnz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
